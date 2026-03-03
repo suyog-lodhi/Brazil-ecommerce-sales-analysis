@@ -34,7 +34,7 @@ Provides a high-level snapshot of key KPIs:
 
 📌 **Insight:** Revenue growth is primarily driven by higher order volume rather than increased spending per order.
 
-📷 Screenshot:  
+ 
 <img width="1444" height="720" alt="Screenshot 2026-03-03 115930" src="https://github.com/user-attachments/assets/503a4504-7d67-4e94-9f3b-5e06dce25943" />
 
 
@@ -49,7 +49,7 @@ Provides a high-level snapshot of key KPIs:
 
 📌 **Insight:** Revenue is concentrated in a few dominant categories, while freight-heavy products significantly impact logistics costs.
 
-📷 Screenshot:  
+  
 <img width="1520" height="745" alt="Screenshot 2026-03-03 120054" src="https://github.com/user-attachments/assets/2153e624-830f-4e49-b0cc-b1d28a8bb221" />
 
 
@@ -63,7 +63,7 @@ Provides a high-level snapshot of key KPIs:
 
 📌 **Insight:** Revenue trends closely follow order volume trends, indicating volume-driven growth.
 
-📷 Screenshot:  
+  
 <img width="1514" height="739" alt="Screenshot 2026-03-03 120124" src="https://github.com/user-attachments/assets/6629d534-1dc5-4c99-a7a7-1bc84517f7eb" />
 
 
@@ -76,7 +76,7 @@ Provides a high-level snapshot of key KPIs:
 
 📌 **Insight:** Order activity is heavily concentrated in a few key states.
 
-📷 Screenshot:  
+ 
 <img width="1517" height="742" alt="Screenshot 2026-03-03 120138" src="https://github.com/user-attachments/assets/81729c71-58a4-4c25-9a2c-953ccc69a33b" />
 
 
@@ -91,7 +91,7 @@ Provides a high-level snapshot of key KPIs:
 
 📌 **Insight:** A small percentage of high-performing sellers drive a disproportionate share of marketplace revenue.
 
-📷 Screenshot:  
+  
 <img width="1476" height="735" alt="Screenshot 2026-03-03 120201" src="https://github.com/user-attachments/assets/0eccd72d-6ce7-4dfb-bd25-47ba79454c74" />
 
 
@@ -107,7 +107,7 @@ Provides a high-level snapshot of key KPIs:
 
 📌 **Insight:** The marketplace is heavily dependent on credit-based transactions, reflecting installment-driven purchasing behavior.
 
-📷 Screenshot:  
+  
 <img width="1440" height="755" alt="Screenshot 2026-03-03 120213" src="https://github.com/user-attachments/assets/38040ccc-1e64-4c18-9645-063a492638b0" />
 
 
@@ -129,7 +129,7 @@ Provides a high-level snapshot of key KPIs:
 
 📌 **Insight:** Even remote regions maintain strong on-time performance, indicating accurate delivery estimation and reliable logistics.
 
-📷 Screenshot:  
+ 
 <img width="1547" height="750" alt="Screenshot 2026-03-03 120225" src="https://github.com/user-attachments/assets/5df8048e-6da6-4805-a7f2-0c2de3c2e80c" />
 
 
