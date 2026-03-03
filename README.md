@@ -167,7 +167,7 @@ Provides a high-level snapshot of key KPIs:
 # 📂 Repository Structure
 ```
 ├── 01_Data
-│   ├── Raw_data
+│   └── Raw_data
 │  
 │
 ├── 02_Dashboard
