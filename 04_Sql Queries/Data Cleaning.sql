@@ -323,8 +323,7 @@ update sellers
 set seller_city = 'ji parana'
 where seller_city = 'ji-paraná';
 
-set sql_safe_updates = 0;
-SET SQL_SAFE_UPDATES = 1;
+
 /*
 ribeirao preto / sao paulo
 sp / sp
@@ -604,7 +603,7 @@ WHERE geolocation_city = 'sao joao do pau d&aposalho';
 
 
 
-SET SQL_SAFE_UPDATES = 1;
+
 
 
 select geolocation_city, count(*) from geolocation
@@ -764,7 +763,7 @@ WHERE customer_city IN (
     'doce grande', 'sambaiba', 'sao sebastiao da serra', 'angelo frechiani',
     'major porto', 'aribice', 'cipo-guacu', 'sao sebastiao do paraiba'
 );
-SET SQL_SAFE_UPDATES = 1;
+
 
 
 SELECT DISTINCT s.seller_city
@@ -1061,3 +1060,4 @@ WHERE product_category_name IN (
 );
 
 SELECT * FROM product_category_translation;
+
