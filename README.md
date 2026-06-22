@@ -1,6 +1,6 @@
 # 🛒 Brazil E-Commerce Marketplace Performance Analysis
 
-**Sales • Categories • Sellers • Payments • Delivery**  
+**Sales • Categories • Sellers • Payments • Delivery**   
 📊 *2025 Power BI Project*
 
 ---
